@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LeetCodeDemoMain",
+            "request": "launch",
+            "mainClass": "demo.LeetCodeDemoMain",
+            "projectName": "machine-coding_d7929107"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
